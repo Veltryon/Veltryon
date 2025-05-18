@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there 👋
+
+This is my profile, where I aim to document journey into coding and scripting, and later, my own, personal projects.
+
+My day job is in the field of cybersecurity, and my interests are in using scripting for Blue Team/Cyber Defense, such as automating common tasks, tool development, security investigations.
+
+I've just started learning python, however, I'm also interested in lrearning other languages like C#, PowerShell (and we should not forget about query languages like KQL, neither).
 
 <!--
 **Veltryon/Veltryon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
